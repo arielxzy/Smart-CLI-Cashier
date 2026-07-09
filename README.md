@@ -23,6 +23,7 @@ Melalui proyek praktik langsung ini, saya telah berhasil menerapkan berbagai kon
 2. Buka terminal di folder proyek ini, lalu jalankan perintah:
 ```bash
 node cashier.js
+```
 
 ## 📚 Status Proyek & Kontribusi
 Karena proyek ini adalah bagian dari perjalanan belajar saya untuk mendalami dunia pemrograman, saya sangat terbuka terhadap masukan yang membangun. Silakan tinjau kodenya, lakukan fork, atau tinggalkan saran di kolom issues untuk membantu saya berkembang lebih jauh!
